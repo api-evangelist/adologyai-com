@@ -66,7 +66,7 @@
 
 Adology connects intelligence across categories, competitors, culture, creators, and customers, analyzing the content frame‑by‑frame to help your team decide what to make next. All backed by evidence. Adology is creative intelligence for agencies and brands, built by expert agency and media executives.
 
-**Areas:** AI · Marketing · Intelligence · Creative · Analytics
+**Areas:** Artificial Intelligence · Marketing · Intelligence · Creative · Analytics
 
 ## Adology on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Adologyai Com Agentic Access](https://apis.io/agentic-access/adologyai-com/adologyai-com-agentic-access/)
+- [Adology Agentic Access](https://apis.io/agentic-access/adologyai-com/adologyai-com-agentic-access/)
 
 #### Overlays (1)
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Adologyai Com Openapi Overlay](https://apis.io/overlays/adologyai-com/adologyai-com-openapi-overlay/)
+- [Adology Openapi Overlay](https://apis.io/overlays/adologyai-com/adologyai-com-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -102,26 +102,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adologyai Com Authentication](https://apis.io/security/adologyai-com/adologyai-com-authentication/)
-- [Adologyai Com Domain Security](https://apis.io/security/adologyai-com/adologyai-com-domain-security/)
+- [Adology Authentication](https://apis.io/security/adologyai-com/adologyai-com-authentication/)
+- [Adology Domain Security](https://apis.io/security/adologyai-com/adologyai-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adologyai Com Scopes](https://apis.io/scopes/adologyai-com/adologyai-com-scopes/)
+- [Adology Scopes](https://apis.io/scopes/adologyai-com/adologyai-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adologyai Com Plans Pricing](https://apis.io/plans/adologyai-com/adologyai-com-plans-pricing/)
+- [Adology Plans Pricing](https://apis.io/plans/adologyai-com/adologyai-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adologyai Com Rate Limits](https://apis.io/rate-limits/adologyai-com/adologyai-com-rate-limits/)
+- [Adology Rate Limits](https://apis.io/rate-limits/adologyai-com/adologyai-com-rate-limits/)
 
 ## Where to find this API
 
@@ -137,25 +137,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 33.6** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 28.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 0.0 |
-| Contract governance | 79.1 |
-| Operational transparency | 5.3 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 37.4 |
-| Access clarity | 34.2 |
+| Access clarity | 42.6 |
 
-**Agent readiness 21.5** — agent-aware
+**Agent readiness 10.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -163,7 +163,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -173,8 +173,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adologyai-com/](https://apis.io/providers/adologyai-com/).
 
